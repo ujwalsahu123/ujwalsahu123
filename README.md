@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ujwalsahu
+- 👋 Hi, I’m @ujwal_sahu
 - 👀 I’m interested in ideas , startups , future tech.
 - 🌱 I’m currently learning cs, ai ,dev
 - 💞️ I’m looking to collaborate on ideas which are awesome , sloves problem and changes the world.
