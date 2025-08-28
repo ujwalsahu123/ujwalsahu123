@@ -124,6 +124,13 @@
 <p>VS Code Stats:<p>
 <br>
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 August 2025 - To: 27 August 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <br>
 
