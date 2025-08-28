@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning cs, ai ,dev
 - 💞️ I’m looking to collaborate on ideas which are awesome , sloves problem and changes the world.
 - 📫 Reach me by messaging on +91-8169060423
-  <hr>
+<br>
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #ff7eb3, #ff758c, #ff6a00); border-radius: 5px;" />
 
   
 <h3 align="center">Full Stack Web Development (MERN)</h3>
