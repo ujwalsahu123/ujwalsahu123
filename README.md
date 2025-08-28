@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ideas which are awesome , sloves problem and changes the world.
 - 📫 Reach me by messaging on +91-8169060423
 <br>
-<hr style="border: 0; height: 2px; background: linear-gradient(90deg, #ff7eb3, #ff758c, #ff6a00); border-radius: 5px;" />
+<hr>
 
   
 <h3 align="center">Full Stack Web Development (MERN)</h3>
@@ -120,12 +120,15 @@
 
 <img src="https://raw.githubusercontent.com/ujwalsahu123/ujwalsahu123/output/snake.svg" alt="Snake animation" />
 
-###
+
 <br>
 <p>VS Code Stats:<p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <br>
+
+###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ujwal-sahu-107a641a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
