@@ -1,23 +1,11 @@
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="left" width="50%">
-        
 👋 Hi, I’m **@ujwal_sahu**  
 👀 Interested in **ideas, startups, future tech**  
 🌱 Currently learning **CS, AI, Dev**  
 💞️ Open to collaborate on **world-changing ideas**  
 📫 Reach me: **+91-8169060423**  
 
-      </td>
-      <td align="center" width="50%">
-        <img src="terminal.gif" alt="Terminal GIF" width="400"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
+<img src="terminal.gif">
 
 <hr>
 <h3 align="center">Full Stack Web Development (MERN)</h3>
