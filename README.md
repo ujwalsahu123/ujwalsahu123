@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @ujwal_sahu
-- 👀 I’m interested in ideas , startups , future tech.
-- 🌱 I’m currently learning cs, ai ,dev
-- 💞️ I’m looking to collaborate on ideas which are awesome , sloves problem and changes the world.
-- 📫 Reach me by messaging on +91-8169060423
-<br>
-<hr>
-
+<div align="center">
   
+  <table>
+    <tr>
+      <td align="left" width="50%">
+        
+👋 Hi, I’m **@ujwal_sahu**  
+👀 Interested in **ideas, startups, future tech**  
+🌱 Currently learning **CS, AI, Dev**  
+💞️ Open to collaborate on **world-changing ideas**  
+📫 Reach me: **+91-8169060423**  
+
+      </td>
+      <td align="center" width="50%">
+        <img src="terminal.gif" alt="Terminal GIF" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<hr>
 <h3 align="center">Full Stack Web Development (MERN)</h3>
 
 ###
@@ -124,6 +137,13 @@
 <br>
 <p>VS Code Stats:<p>
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 August 2025 - To: 27 August 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <br>
 
