@@ -120,6 +120,10 @@
 <img src="https://raw.githubusercontent.com/ujwalsahu123/ujwalsahu123/output/snake.svg" alt="Snake animation" />
 
 ###
+<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ujwal-sahu-107a641a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
