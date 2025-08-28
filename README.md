@@ -1,23 +1,24 @@
 <div align="center">
-
-  <table border="0">
+  
+  <table>
     <tr>
-      <td valign="top" width="50%">
+      <td align="left" width="50%">
         
-- 👋 Hi, I’m **@ujwal_sahu**  
-- 👀 Interested in **ideas, startups, future tech**  
-- 🌱 Currently learning **CS, AI, Dev**  
-- 💞️ Open to collaborate on **world-changing ideas**  
-- 📫 Reach me: **+91-8169060423**  
+👋 Hi, I’m **@ujwal_sahu**  
+👀 Interested in **ideas, startups, future tech**  
+🌱 Currently learning **CS, AI, Dev**  
+💞️ Open to collaborate on **world-changing ideas**  
+📫 Reach me: **+91-8169060423**  
 
       </td>
-      <td valign="top" width="50%">
-        <img src="./terminal.gif" alt="Terminal GIF" width="400"/>
+      <td align="center" width="50%">
+        <img src="terminal.gif" alt="Terminal GIF" width="400"/>
       </td>
     </tr>
   </table>
 
 </div>
+
 
 
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, #ff7eb3, #ff758c, #ff6a00); border-radius: 5px;" />
