@@ -127,11 +127,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
-Git Config   3 mins          █████████▒░░░░░░░░░░░░░░░   37.71 %
-Bash         3 mins          █████████▒░░░░░░░░░░░░░░░   36.72 %
-Other        2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
+Python                2 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   39.78 %
+C++                   2 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.82 %
+Text                  1 hr 19 mins    █████░░░░░░░░░░░░░░░░░░░░   20.41 %
+Todotxt               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Git Config            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
