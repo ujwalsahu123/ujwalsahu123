@@ -3,6 +3,7 @@
 🌱 Currently learning **CS, AI, Dev**  
 💞️ Open to collaborate on **world-changing ideas**  
 📫 Reach me: **+91-8169060423**  
+ujwalsahu10@gmail.com
 
 
 <img src="terminal.gif">
