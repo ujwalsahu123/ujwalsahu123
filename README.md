@@ -128,7 +128,7 @@ ujwalsahu10@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 24 November 2025
+From: 18 November 2025 - To: 25 November 2025
 
 Python   3 hrs 20 mins   ███████████████████░░░░░░   76.14 %
 Java     37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
