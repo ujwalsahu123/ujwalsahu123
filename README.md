@@ -128,10 +128,11 @@ ujwalsahu10@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2025 - To: 04 December 2025
+From: 28 November 2025 - To: 05 December 2025
 
-C++    10 mins         ██████████████████████░░░   88.59 %
-Text   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+C++      14 mins         ██████████████░░░░░░░░░░░   55.63 %
+Python   10 mins         █████████▓░░░░░░░░░░░░░░░   39.11 %
+Text     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
 
 <!--END_SECTION:waka-->
