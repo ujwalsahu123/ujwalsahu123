@@ -128,7 +128,7 @@ ujwalsahu10@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 18 December 2025
+From: 12 December 2025 - To: 19 December 2025
 
 C++          1 hr 19 mins    ██████████▒░░░░░░░░░░░░░░   40.74 %
 Python       48 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
