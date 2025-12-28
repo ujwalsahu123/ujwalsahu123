@@ -128,13 +128,13 @@ ujwalsahu10@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2025 - To: 26 December 2025
+From: 20 December 2025 - To: 27 December 2025
 
-C++               23 hrs 25 mins  ██████████████▒░░░░░░░░░░   57.21 %
-Python            13 hrs 4 mins   ████████░░░░░░░░░░░░░░░░░   31.95 %
-Text              2 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-C                 1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Todotxt           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+C++          24 hrs 3 mins   █████████████▓░░░░░░░░░░░   55.14 %
+Python       15 hrs 38 mins  █████████░░░░░░░░░░░░░░░░   35.85 %
+Text         3 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+C            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
