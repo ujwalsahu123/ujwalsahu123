@@ -128,13 +128,13 @@ ujwalsahu10@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2026 - To: 15 January 2026
+From: 09 January 2026 - To: 16 January 2026
 
-Python      16 hrs 56 mins  ████████████▒░░░░░░░░░░░░   49.41 %
-C++         15 hrs 28 mins  ███████████▒░░░░░░░░░░░░░   45.17 %
-Text        1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Batchfile   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-YAML        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python       13 hrs 56 mins  ████████████▒░░░░░░░░░░░░   49.95 %
+C++          10 hrs 54 mins  █████████▓░░░░░░░░░░░░░░░   39.11 %
+Text         1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+JavaScript   1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Batchfile    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
