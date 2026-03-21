@@ -128,13 +128,13 @@ ujwalsahu10@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2026 - To: 19 March 2026
+From: 13 March 2026 - To: 20 March 2026
 
-Text         13 hrs 32 mins        ██████████▒░░░░░░░░░░░░░░   41.19 %
-JSON         7 hrs 34 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
-Python       5 hrs 16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-JavaScript   4 hrs 34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-HTML         1 hr 6 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Python       10 hrs 50 mins        ████████▓░░░░░░░░░░░░░░░░   34.95 %
+JSON         7 hrs 34 mins         ██████░░░░░░░░░░░░░░░░░░░   24.43 %
+Text         4 hrs 52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+JavaScript   4 hrs 34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Todotxt      1 hr 37 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:waka-->
