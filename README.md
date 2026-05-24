@@ -128,13 +128,13 @@ ujwalsahu10@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2026 - To: 21 May 2026
+From: 16 May 2026 - To: 23 May 2026
 
-Python       7 hrs 54 mins         █████████████████████▒░░░   85.94 %
-JavaScript   1 hr 3 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Markdown     10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Todotxt      3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python       9 hrs 15 mins         ██████████████████████▓░░   90.69 %
+JavaScript   35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Markdown     10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Text         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Todotxt      3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
